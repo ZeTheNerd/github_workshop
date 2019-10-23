@@ -1,4 +1,3 @@
 # github_workshop
 
-I wrote stuff here!
-This is also stuff!
+This repository's sole purpose is to be a 1st contact with git.
