@@ -1,4 +1,4 @@
 # github_workshop
 
 I wrote stuff here!
-Thi is also stuff!
+This is also stuff!
