@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 def main():
-
     # implemented feature1
     # bug 1
     # random code
